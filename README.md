@@ -7,7 +7,7 @@
 
 ## Save Current Tab
 #### Useful to save Linkedin Profiles, Resources or any link that we want to store for fast access
-![My Image](images/Screenshot 2024-08-17 at 3.35.02 PM.png)
+![My Image](./images/Screenshot 2024-08-17 at 3.35.02 PM.png)
 
 
 ## Save Input
